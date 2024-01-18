@@ -8,7 +8,7 @@ This project involves the analysis of Zomato data for restaurants in Bangalore. 
 ## 🍄Project Structure
 
 - **`zomato_analysis.ipynb`**: Jupyter Notebook containing the Python code for data analysis.
-- **`zomato_data.xlsx`**: Excel file containing the Zomato Bangalore dataset.
+- **`resturant.xlsx`**: Excel file containing the Zomato Bangalore dataset.
 
 ## 🔥Requirements
 
