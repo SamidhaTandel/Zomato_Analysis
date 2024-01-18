@@ -16,7 +16,7 @@ This project involves the analysis of Zomato data for restaurants in Bangalore. 
 - Jupyter Notebook
 - Pandas
 - Matplotlib
-- Seaborn
+
 ## 📋Data Exploration
 - <b>Address</b>: Physical address of the restaurant.
 - <b>Name</b>: Name of the restaurant.
@@ -35,11 +35,7 @@ This project involves the analysis of Zomato data for restaurants in Bangalore. 
 - **Data Loading**: Load the Zomato Bangalore dataset from the provided Excel file.
 - **Data Cleaning**: Handle missing values, clean and preprocess the data.
 - **Insights Extraction**: Extract meaningful insights from the data.
-- **Visualizations**: Create visualizations (bar charts, scatter plots, etc.) to better understand the data.
+- **Visualizations**: Create visualizations (bar charts, pie charts, etc.) to better understand the data.
 
-Install the required Python libraries using:
-
-```bash
-pip install pandas matplotlib seaborn
 
 
